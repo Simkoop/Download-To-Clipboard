@@ -1,0 +1,8 @@
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\bin\Debug\DownloadToClip.exe.config
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\bin\Debug\DownloadToClip.exe
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\bin\Debug\DownloadToClip.pdb
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\obj\Debug\DownloadToClip.csproj.AssemblyReference.cache
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\obj\Debug\DownloadToClip.csproj.SuggestedBindingRedirects.cache
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\obj\Debug\DownloadToClip.csproj.CoreCompileInputs.cache
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\obj\Debug\DownloadToClip.exe
+C:\Users\sim20\Documents\Programs\New\DownloadToClip\DownloadToClip\obj\Debug\DownloadToClip.pdb
